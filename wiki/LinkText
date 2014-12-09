@@ -1,9 +1,0 @@
-[[unpartei/LinkText|LinkText]][[http://google.com/search?q=LinkText|➜°]] ist der Text eines Links, der fuer den User sichtbar ist.
-
-[[unpartei/WikifyTheWeb|WikifyTheWeb]][[http://google.com/search?q=WikifyTheWeb|➜°]] Software (wie z.B. das [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei|➜°]]) erzeugt in einfachen Texten Links aus erweiterten [[unpartei/CamelCaseWort|CamelCaseWort]][[http://google.com/search?q=CamelCaseWort|➜°]] en, die
-dann als [[unpartei/LinkText|LinkText]][[http://google.com/search?q=LinkText|➜°]] dienen.
-
-[[https://www.google.com/search?q={$page}|➜GoogleThis]]
-[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

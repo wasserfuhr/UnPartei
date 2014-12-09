@@ -1,6 +1,0 @@
-[[unpartei/GoogleThisPairLink|GoogleThisPairLink]][[http://google.com/search?q=GoogleThisPairLink|➜°]] ein [[unpartei/PairLink|PairLink]][[http://google.com/search?q=PairLink|➜°]], der mit einer Komponente auf eine [[unpartei/GoogleSuche|GoogleSuche]][[http://google.com/search?q=GoogleSuche|➜°]] zu seinem eigenen [[unpartei/LinkText|LinkText]][[http://google.com/search?q=LinkText|➜°]] verweist.
-
-[[https://www.google.com/search?q={$page}|➜GoogleThis]]
-[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

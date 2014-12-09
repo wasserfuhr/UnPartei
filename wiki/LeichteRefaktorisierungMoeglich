@@ -1,9 +1,0 @@
-Eine [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite| ° ]], die mit [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei| ° ]] erzeugt wird, kann leicht mithilfe desselben [[unpartei/BookMarklet|BookMarklet]][[http://google.com/search?q=BookMarklet| ° ]] s refaktorisiert werden.
-Das heisst im Einzelfall folgendes,
-* Texte einfuegen und Löschen im [[unpartei/VisualEditor|VisualEditor]][[http://google.com/search?q=VisualEditor| ° ]] bleibt übersichtlich, da das [[unpartei/KrinGel|KrinGel]][[http://google.com/search?q=KrinGel| ° ]] nicht viel Platz einnimmt.
-* Links einfuegen ist simple: [[unpartei/CamelCaseWort|CamelCaseWort]][[http://google.com/search?q=CamelCaseWort| ° ]] e einfuegen sichern, Bookmarklet Klick, Edit Klick, Save Klick.
-* Teiltexte (inklusive Links) unter einem [[unpartei/WikiWort|WikiWort]][[http://google.com/search?q=WikiWort| ° ]] auslagern: Teiltext ausschneiden, [[unpartei/WikiWort|WikiWort]][[http://google.com/search?q=WikiWort| ° ]] als Stellvertreter einfuegen, in neue Seite unter dem [[unpartei/WikiWort|WikiWort]][[http://google.com/search?q=WikiWort| ° ]]
-Text einkopieren, sichern
-
-
-[[include component="backlinks" page="{$page}"]]

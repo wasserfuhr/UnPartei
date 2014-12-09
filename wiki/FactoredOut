@@ -1,7 +1,0 @@
-In a context of [[unpartei/ReFactoring|ReFactoring]][[http://google.com/search?q=ReFactoring|➜°]], a **chunk of text** "can be [[unpartei/FactoredOut|FactoredOut]][[http://google.com/search?q=FactoredOut|➜°]]to a separate page" (i.e. it can be cutted out and given an appropriate [[unpartei/LinkName|LinkName]][[http://google.com/search?q=LinkName|➜°]]) 
-to make its source page [[unpartei/ScrollFree|ScrollFree]][[http://google.com/search?q=ScrollFree|➜°]],
-
-[[https://www.google.com/search?q={$page}|➜GoogleThis]]
-[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

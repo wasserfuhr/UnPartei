@@ -1,3 +1,0 @@
-* [[InterWiki]]: http://c2.com/cgi/wiki?InterWiki https://en.wikipedia.org/wiki/Interwiki_links
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

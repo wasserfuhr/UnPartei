@@ -1,7 +1,0 @@
-Eine externe [[unpartei/OriginalVeroeffentlichungsSeite|OriginalVeroeffentlichungsSeite]][[http://google.com/search?q=OriginalVeroeffentlichungsSeite|➜°]] eines Autors oder Autorin dient der Vereinfachung von administrativem [[unpartei/UpdateAufwand|UpdateAufwand]][[http://google.com/search?q=UpdateAufwand|➜°]].
-Hierzu braucht in Wikispaces nur ein [[unpartei/InklusionsWidget|InklusionsWidget]][[http://google.com/search?q=InklusionsWidget|➜°]] geschaltet werden, das die jeweiligen Aenderungen auf der [[unpartei/OriginalVeroeffentlichungsSeite|OriginalVeroeffentlichungsSeite]][[http://google.com/search?q=OriginalVeroeffentlichungsSeite|➜°]]
-automatisch "durchreicht".
-
-Beispiel: [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei|➜°]]
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

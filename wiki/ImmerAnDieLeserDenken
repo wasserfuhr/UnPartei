@@ -1,8 +1,0 @@
-ein sehr bekannter alter Spruch von focus-Chefredakteur HubertMarkwort.
-
-Gilt analog auch für das UnParteiWiki. SeiKurz. 
-Viele Menschen sagen dass sie wenig Zeit haben. Deshalb sollte jede [[WikiPage]] und insbesondere die [[HomePage]] möglichst kurz die wichtigsten Inhalte und Links enthalten und zum [[MitMachen]] anregen.
-
-Mache den UsabilityTest: Welche liest ein Besucher und wo wird/soll er als nächstes clicken?
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

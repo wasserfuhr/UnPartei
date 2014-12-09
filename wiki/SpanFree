@@ -1,4 +1,0 @@
-please keep the [[UniWiki]] [[SpanFree]]. Don't use the [[VisualEditor]] for formatting,
-which creates ugly and [[UnLean]] [[WikiSyntax]] with many [[HtMl]] {{``<span>``}} and CSS overhead.
-
-[[BakLink]]s: [[include component="backlinks" page="{$page}"]]

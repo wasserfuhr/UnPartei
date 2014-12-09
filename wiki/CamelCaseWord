@@ -1,6 +1,0 @@
-A CamelCaseWord is a string in CamelCase. Such a pattern is used to WikifyTheWeb (e.g. by AutoLinkBookmarklet).
-
-[[https://www.google.com/search?q={$page}|➜GoogleThis]]
-[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
-
-[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

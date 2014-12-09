@@ -1,8 +1,0 @@
-**<span style="background-color: #ffffff;">http://sync.in/{$page}</span>**
-//<span style="background-color: #ffffff;">CcBySa {$Creationdate}</span>//
-
-<span style="background-color: #ffffff;">SyncIn is a template in WikiSpaces that creates a new WikiPage, whose PageName is used as a userfriendly Url in the EtherPad [[http://sync.in/|http://sync.in]].</span>
-<span style="background-color: #ffffff;">Supposed you create a page with PageName [[einanderhelfen/SyncInTestPage1|SyncInTestPage1]], then automatically a page [[http://sync.in/SyncInTestPage1]]</span>
-<span style="background-color: #ffffff;">is created as an Iframe at the bottom of [[einanderhelfen/SyncInTestPage1|SyncInTestPage1]]. [[user:fridemar]]</span>
-
-[[media type="custom" key="12351036"]]

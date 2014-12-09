@@ -1,4 +1,0 @@
-[[unpartei/LinkDensity|LinkDensity]][[http://google.com/search?q=LinkDensity| ° ]] = [[unpartei/LinkCount|LinkCount]][[http://google.com/search?q=LinkCount| ° ]]/[[unpartei/WordCount|WordCount]][[http://google.com/search?q=WordCount| ° ]], a measure for the density of links on a [[unpartei/WikiPage|WikiPage]][[http://google.com/search?q=WikiPage| ° ]]
-
-Ref:
-[[include component="backlinks" page="{$page}"]]

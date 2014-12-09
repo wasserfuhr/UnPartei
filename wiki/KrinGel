@@ -1,9 +1,0 @@
-[[FriPa]]: [[unpartei/KrinGel|KrinGel]][[http://google.com/search?q=KrinGel|°]] bezeichnet den hochgestellten kleinen Kreis, beispielsweise hinter dem Link [[unpartei/KrinGel|KrinGel]][[http://google.com/search?q=KrinGel|°]] .
-[[RaWa]]: Wozu ist das gut?
-[[FriPa]]: Das ist ein automatisch erzeugter Link zur GoogleSearch, der Tipp- und Klickarbeit erspart.
-[[RaWa]]: Und wie läßt er sich erzeugen?
-[[FriPa]]: Per [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[https://google.com/search?q=AutoLinkBookmarkletUnpartei|°]]
-[[RaWa]]: Wenn [[FriPa]] es in der LeerZeichen-freien Variante verwenden würde, wäre auch die Verwendung im SatzFluss (z.B. als Plural) für [[UnWikiVisitor]]s [[EinFach]]er.
-[[Fripa]]: Danke. Done.
-
-[[include component="backlinks" page="{$page}"]]
