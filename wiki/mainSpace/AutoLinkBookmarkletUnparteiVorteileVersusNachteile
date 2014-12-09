@@ -1,0 +1,7 @@
+[[unpartei/AutoLinkBookmarkletUnparteiVorteileVersusNachteile|AutoLinkBookmarkletUnparteiVorteileVersusNachteile]][[http://google.com/search?q=AutoLinkBookmarkletUnparteiVorteileVersusNachteile| ° ]]
+
+Die Vorteile und Nachteile sind abzuwaegen und gegebenenfalls neue [[unpartei/BookmarkletVarianten|BookmarkletVarianten]][[http://google.com/search?q=BookmarkletVarianten| ° ]]zu erstellen.
+Zum Beispiel könnte das Bookmarklet innerhalb des [[unpartei/UnparteiWiki|UnparteiWiki]][[http://google.com/search?q=UnparteiWiki| ° ]]s kürzere [[unpartei/WikiLink|WikiLink]][[http://google.com/search?q=WikiLink| ° ]] s
+produzieren, eine andere Variante könnte die Google Komponente weglassen.
+
+[[include component="backlinks" page="{$page}"]]

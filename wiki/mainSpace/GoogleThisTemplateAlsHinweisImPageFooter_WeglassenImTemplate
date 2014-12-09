@@ -1,0 +1,17 @@
+Position;
+[[unpartei/GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate|GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate]][[http://google.com/search?q=GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate|➜°]]
+
+Erläuterung: Gegenwaertig werden zwei verschiedene [[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]] Hinweise im am [[unpartei/WikiSeitenEnde|WikiSeitenEnde]][[http://google.com/search?q=WikiSeitenEnde|➜°]] plaziert:
+* A) [[unpartei/GoogleThis_SeitenTitelGoogleSuche|GoogleThis_SeitenTitelGoogleSuche]][[http://google.com/search?q=GoogleThis_SeitenTitelGoogleSuche|➜°]] der Hinweis auf den [[unpartei/SeitenTitel|SeitenTitel]][[http://google.com/search?q=SeitenTitel|➜°]] als [[unpartei/GoogleSuche|GoogleSuche]][[http://google.com/search?q=GoogleSuche|➜°]] `[[https://www.google.com/search?q={$page}|➜GoogleThis]]`
+* B) [[unpartei/GoogleThis_HinweisAufErklaerungDesWikiPragma|GoogleThis_HinweisAufErklaerungDesWikiPragma]][[http://google.com/search?q=GoogleThis_HinweisAufErklaerungDesWikiPragma|➜°]] -> [[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
+
+Die Positionen heissen nun genauer:
+
+[[unpartei/GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate_GoogleThis_SeitenTitelGoogleSuche|GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate_GoogleThis_SeitenTitelGoogleSuche]][[http://google.com/search?q=GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate_GoogleThis_SeitenTitelGoogleSuche|➜°]]
+[[unpartei/GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate_HinweisAufErklaerungDesWikiPragma|GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate_HinweisAufErklaerungDesWikiPragma]][[http://google.com/search?q=GoogleThisTemplateAlsHinweisImPageFooter_WeglassenImTemplate_HinweisAufErklaerungDesWikiPragma|➜°]]
+
+
+[[https://www.google.com/search?q={$page}|➜GoogleThis]]
+[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

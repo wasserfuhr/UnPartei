@@ -1,0 +1,5 @@
+Eine [[unpartei/WebSite|WebSite]][[http://google.com/search?q=WebSite|➜°]] ist eine (durch Links verbundene Sammlung) von [[unpartei/WebSeite|WebSeite]][[http://google.com/search?q=WebSeite|➜°]] n.
+
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+[[https://www.google.com/search?q={$page}|GoogleThis]]

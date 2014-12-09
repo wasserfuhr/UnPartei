@@ -1,0 +1,13 @@
+[[media type="custom" key="12331992"]]
+
+==WikiWidgetMitVariable $page== 
+Bug in Wikispaces-Software! Variable $page muss manuell korrigiert werden:
+
+Bitte bei jeder neu erzeugten WikiSeite im folgenden Widget Code die Variable manuell
+durch den WikiSeitenName ersetzen.
+
+<div><a href="http://sync.in/{$page}" rel="nofollow" target="internal">Sync.in|</a></div>
+
+<iframe id="internal" name="internal" src="http://sync.in/{$page}" style="height: 870px; width: 95%;"></iframe>
+
+==<span style="font-family: Arial,sans-serif;">BackUp</span>== 

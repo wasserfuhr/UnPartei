@@ -1,0 +1,33 @@
+[[unpartei/VereinfachtesErstesTutorial_Editierbar_In_ClojureWebConsole|VereinfachtesErstesTutorial_Editierbar_In_ClojureWebConsole]][[http://google.com/search?q=VereinfachtesErstesTutorial_Editierbar_In_ClojureWebConsole|➜°]]
+
+Bezugnehmend auf dein "erstes tutorial" , Anfangsteil
+[[code format="clojure"]]
+(fn [request response]
+  (do
+    (.setCharacterEncoding response "UTF-8")
+    (hiccup.core/html "<!DOCTYPE html>"
+      [:html
+        [:head
+          [:meta {:http-equiv "Content-Type" :content "text/html;charset=utf-8"}]
+          [:title "HelloWorld"]]
+        [:body
+          [:h1 "HelloWorld"]]])))
+
+[[code]]
+
+Die dazugehörige [[SandBox]] für die editierbare [[UnApp]]: http://noopolis.org/edit 
+
+oder [[InstallFloatingBoats]].
+
+F: Können wir den [[unpartei/HtmlOutput|HtmlOutput]][[http://google.com/search?q=HtmlOutput|➜°]] per [[unpartei/ExecuteKlick|ExecuteKlick]][[http://google.com/search?q=ExecuteKlick|➜°]] direkt sehen?
+R: Nachdem die Resource mit "save" gespeichert ist, ist sie per "eval" ausführbar.
+F: Ist das eine [[unpartei/FunctionExpression|FunctionExpression]][[http://google.com/search?q=FunctionExpression|➜°]], die sofort ausgeführt werden kann, ohne dass explizit eine Funktion mit Namen definiert werden muss? Muss da nicht noch etwas importiert werden?
+R: Das erledigt der [[RootHandler]].
+F: Und dann sezieren wir das [[unpartei/CodeSnippet|CodeSnippet]][[http://google.com/search?q=CodeSnippet|➜°]], ohne gleich in die anschliessende Erweiterung einzusteigen.
+
+[[WikiTag]]s: [[unpartei/ClojureEnabledWiki|ClojureEnabledWiki]][[http://google.com/search?q=ClojureEnabledWiki|➜°]] [[unpartei/SmartWiki|SmartWiki]][[http://google.com/search?q=SmartWiki|➜°]] [[unpartei/HtmlByClojure|HtmlByClojure]][[http://google.com/search?q=HtmlByClojure|➜°]] [[unpartei/ClojureWebConsole|ClojureWebConsole]][[http://google.com/search?q=ClojureWebConsole|➜°]] [[unpartei/SingularAcademy|SingularAcademy]][[http://google.com/search?q=SingularAcademy|➜°]]
+
+Ref:
+https://www.facebook.com/RainerWasserfuhr/posts/10151297933934916?comment_id=25078472&offset=0&total_comments=4
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

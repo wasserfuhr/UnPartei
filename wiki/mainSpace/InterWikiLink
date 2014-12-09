@@ -1,0 +1,18 @@
+[[WikiDialog]]:
+J: Was ist ein [[InterWikiLink]]?
+F: In unserem Zusammenhang ist dies ein Link zwischen zwei Seiten unterschiedlicher Wikis.
+J: Kannst du ein Beispiel geben, wo solch eine Verbindung zwischen zwei Wikis aus WikiSpaces hergestellt wird?
+F: Nehmen wir doch gleich diese [[PadPartnerSeite]] , auf der wir jetzt schreiben. und verbinden wir sie in den zugehörigen [[PadPartnerWiki]]s mit [[InterWikiLink]]s.
+F: Die zugehörigen Wikis heissen: "Einanderhelfen" und "UnPartei".
+J: D.h. die zugehörigen Wikis ausführlich als Links heissen: http://einanderhelfen.wikispaces.com und ..
+F: http://unpartei.wikispaces.com und die beiden WikiSeiten heissen?
+J: http://einanderhelfen.wikispaces.com/InterWikiLink und http://unpartei.wikispaces.com/InterWikiLink
+F: In InterWiki Format schreibt sich dies als [[Einanderhelfen:InterWikiLink]] und [[Unpartei:InterWikiLink]]
+J: Schauen wir mal auf den zugehörigen WikiPartnerSeiten nach, um dies zu verifizieren.
+F: Dies ist ein Spezialfall. D.h. Beliebige wikiseiten s1,s2, aus beliebigen wikis w1,w2 können auf diese Weise verbunden werden.
+J: Setzen wir doch mal w1=unpartei und w2=Einanderhelfen und s1=InterWikiLink und s2=SandBox, ja?
+F: Dann bekommen wir [[unpartei:InterWikiLink]]  und [[einanderhelfen:Sandbox]]
+
+OldPad: http://sync.in/InterWikiLink
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

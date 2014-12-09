@@ -1,0 +1,14 @@
+[[SyncInHeader]]:[[http://sync.in/{$page}]]
+
+J: Was ist ein PartnerWiki?
+F: Das ist ein Wiki, das zusammen mit anderen [[SocialTool]]s vernetzt zusammenarbeitet, um zusätzliche Funktionen bereitzustellen, die das Partner Tool nicht bereitstellt, z.B. [[AutoLink]]s und [[RecentChanges]] als Erweiterung zu EtherPad Eigenschaften. Andererseits bekommt das Wiki in unserem Fall als Ergänzung [[JointEditing]].
+J: Ein Beispiel bitte?
+F: Ein zugehöriges [[PadPartnerWiki]] zum Etherpad Sync.in, in dem wir gerade schreiben, ist http://unpartei.wikispaces.com.
+J: Genauso können wir auch aus der Sicht des anderen Partners von einem [[WikiPartnerPad]] sprechen.
+F: PadPartnerWiki: http://unpartei.wikispaces.com und WikiPartnerPad http://sync.in/
+J: Bezogen auf einzelne Seiten wir dann (auf dieser Seite) die entsprechende PadPartnerWikiSeite: http://unpartei.wikispaces.com/PartnerWiki und ...
+F: WikiPartnerPadSeite: http://sync.in/PartnerWiki.
+
+[[media type="custom" key="12355248"]] //[[UnderPad]]//
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

@@ -1,0 +1,28 @@
+<span style="background-color: #efeded; color: #00000;"> //[[http://sync.in/{$page}]]//</span>
+<span style="background-color: #efeded; color: #00000;"> //[[CcBySa]] {$creationdate},{$creator},...//</span>
+<span style="background-color: #efeded; color: #00000;"> //<->[[http://unpartei.wikispaces.com/{$page}]]//</span>
+<span style="background-color: #efeded; color: #00000;"> //<---Ende [[SyncInHeader]]//</span>
+----
+F=[[{$creator}]]
+J=[[Joker]]
+...
+
+<span style="background-color: #efeded; color: #00000;"> //<---Ende [[SyncInAutorInKuerzelListe]]//</span>
+----
+J: Kannst du geschützte Bereiche im [[WikiTextEditor]] farblich markieren?
+F: Ich versuch's mal.
+J: Du hast jetzt den zu schützenden Bereich in Grau unterlegt. Warum nicht die erste Zeile?
+F: Weil dies zu besch... aussehen würde.
+J: Warum hast du den span style für jede Zeile ausgeführt?
+F: Ich habe versucht ihn zeilenübergreifend zu machen, aber das WikiSystem hat intern zeilenweise "korrigiert".
+J: Jetzt hast du doch alles, was nicht überschrieben werden sollte mit span style markiert. Was hat das für einen Vorteil?
+F: Die Nutzer können sofort sehen, wo der nutzbare Bereich zur Verfügung steht.
+J: Und der ist ..
+F: ..der ist der Bereich ohne vorangehende span-Markierungen, d.h. ?
+J: .. der Bereich ohne [[SyncInHeader]], [[SyncInAutorInKuerzelListe]], [[SyncInInhaltsBereich]] und [[SyncInFooter]]
+...
+<span style="background-color: #efeded; color: #00000;"> //<---Ende [[SyncInInhaltsBereich]]//</span>
+----
+<span style="background-color: #efeded; color: #00000;">//Start [[SyncInFooter]]//</span>
+<span style="background-color: #efeded; color: #00000;">[[media type="custom" key="12355248"]]</span>
+<span style="background-color: #efeded; color: #00000;">[[include component="backlinks" page="{$page}" limit="100"]] //[[BackLink]]s//</span>

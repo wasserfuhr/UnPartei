@@ -1,0 +1,4 @@
+Use this WikiTag if a page has outdated or badly structured PageContent.
+Then you or somebody else might improve or ReFactor it in TheFuture.
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

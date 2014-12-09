@@ -1,0 +1,21 @@
+J: Was ist eine [[unpartei/WikiPartnerPadSeite|WikiPartnerPadSeite]][[http://google.com/search?q=WikiPartnerPadSeite| ° ]]?
+F: Wir schreiben gerade auf einer Seite des [[unpartei/WikiPartnerPad|WikiPartnerPad]][[http://google.com/search?q=WikiPartnerPad| ° ]] s http://sync.in/
+J: Und welches ist die zugehörige [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite| ° ]] zu dieser [[unpartei/PadSeite|PadSeite]][[http://google.com/search?q=PadSeite| ° ]]?
+F: Darf ich deine Frage ergänzen mit dem Namen dieser [[unpartei/PadSeite|PadSeite]][[http://google.com/search?q=PadSeite| ° ]]?
+J: Ja, kann auch ich machen. Wir schreiben hier auf http://sync.in/WikiPartnerPadSeite
+F: Ok, dann heisst die zugehörige [[unpartei/PadPartnerWikiSeite|PadPartnerWikiSeite]][[http://google.com/search?q=PadPartnerWikiSeite| ° ]]..
+J: .. http://unpartei.wikispaces.com/WikiPartnerPadSeite
+F: Hey, so schnell kann ich gar nicht schreiben, wie du das im Pad hier ergänzt hast :-)
+J: Für weitere Fragen im [[unpartei/WikiDialog|WikiDialog]][[http://google.com/search?q=WikiDialog| ° ]] stehen wir gern zur Verfügung.
+..
+----
+[[unpartei/AutorKuerzel|AutorKuerzel]][[http://google.com/search?q=AutorKuerzel| ° ]]: F=[[unpartei/FriPa|FriPa]][[http://google.com/search?q=FriPa| ° ]], J=[[Joker]]
+----
+[[WikiPartnerPadSeite]]: http://sync.in/WikiPartnerPadSeite, im Wiki komfortabel per [[EtherPadWikiWidget]] erreichbar.
+[[PadPartnerWikiSeite]]: [[http://unpartei.wikispaces/WikiPartnerPadSeite]], [[CcBySa]] {$creationdate},{$creator},[[unpartei/DeinKuerzel|DeinKuerzel]][[http://google.com/search?q=DeinKuerzel| ° ]],..
+[[QuellReferenzen]]:
+[[EtherPadWikiWidget]]: [[media type="custom" key="12355248"]]
+[[BackLinksWidget]]:
+
+[[include component="backlinks" page="{$page}" limit="10"]]
+----

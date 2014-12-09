@@ -1,0 +1,21 @@
+J: Was ist ein EtherPadWikiWidget?
+F: Wir benutzen gerade ein solches.
+J: Ich hab's gesehen, da steht was unten im Systemtext "... media type= ..". Wozu dient das?
+F: Damit realisieren wir durch einen Systemaufruf ein [[EtherPadWiki]].
+J: Und was bringt uns dieser Aufruf im konkreten Fall?
+F: Wir können unserem Dialog komfortabel im Pad editieren und ...
+J: ... mit einem Schwubs in den [[WikiTextEditor]] kopieren.
+F: Wichtig ist nur, dass wir die gesamte PadSeite mit dem Systemanhang hinter den AutorenKuerzeln kopieren.
+J: Warum das?
+F: Damit wir den Komfort nicht verlieren, schnell zwischen WikiSeite und PadSeite zu wechseln.
+J: Warum brauchen wir die WikiSeite?
+F: Die zugehörige WikiSeite heisst auch [[PadPartnerWikiSeite]], wo wir den [[WikiDialog]] fortsetzen können.
+..
+----
+[[AutorKuerzel]]: F={$creator}, J=[[Joker]]
+----
+[[WikiPartnerPadSeite]]: http://sync.in/{$page}, im Wiki komfortabel per [[EtherPadWikiWidget]] erreichbar.
+[[PadPartnerWikiSeite]]: [[{$page}]], [[CcBySa]] {$creationdate},{$creator},DeinKuerzel,..
+[[QuellReferenzen]]:
+[[EtherPadWikiWidget]]: [[media type="custom" key="12355248"]]
+[[BackLinksWidget]]:[[include component="backlinks" page="{$page}" limit="100"]]

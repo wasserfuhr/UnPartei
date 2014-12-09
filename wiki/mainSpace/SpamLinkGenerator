@@ -1,0 +1,5 @@
+A **[[unpartei/SpamLinkGenerator|SpamLinkGenerator]][[http://google.com/search?q=SpamLinkGenerator|➜°]]** is a [[unpartei/WebBot|WebBot]][[http://google.com/search?q=WebBot|➜°]] that generates [[unpartei/SpamLink|SpamLink]][[http://google.com/search?q=SpamLink|➜°]] s in the [[WritableWeb]][[https://www.google.com/search?q=WritableWeb|➜°]].
+
+[[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags|➜°]]: [[unpartei/LinkLanguage|LinkLanguage]][[http://google.com/search?q=LinkLanguage|➜°]], [[unpartei/LinkSprache|LinkSprache]][[http://google.com/search?q=LinkSprache|➜°]], [[unpartei/LinkKontext|LinkKontext]][[http://google.com/search?q=LinkKontext|➜°]], [[unpartei/LinkContext|LinkContext]][[http://google.com/search?q=LinkContext|➜°]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

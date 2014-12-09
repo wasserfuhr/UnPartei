@@ -1,0 +1,23 @@
+[[http://sync.in/{$page}]](header)
+//[[CcBySa]] {$creationdate},{$creator},...//
+<->[[http://unpartei.wikispaces.com/{$page}]]
+----
+F= {$creator}
+J= Joker (kann als [[AutorInnenKuerzel]] von allen genutzt werden, um einen [[WikiDialog]] zu führen).
+..
+//(Autorenliste), bitte nach Bedarf erweitern, auch durch ZusatzJokers "J1=Joker, J2=Joker, nickname=Joker//
+//Bei Verwendung eines Jokers wird auf AutorInnen Nennung verzichtet. Dies muss jedeR fuer sich im Einzelfall entscheiden//
+//Normalerweise wird ein [[RealName]] erwartet. Joker dienen hauptsächlich der [[DialogSimulation]], wenn gerade kein echter Partner da ist.//
+----
+J: Was ist ein AutorInnenKuerzel?
+F: Du hast gerade selbst ein solches benutzt, namens "J", als Abk. für den/die AutorIn , namens "Joker".
+J: Dann ist also dein AutorInnenKuerzel "F". Ok? Und wofür ist es gut?
+F: Da das Ganze ein CreativeCommons [[CcBySa]] Beitrag ist, ist es erforderlich, die Herkunft des Textes zu dokumentieren, es sei denn der/die jeweilige AutorIn verzichtet auf jegliche Veröffentlichungs Rechte.
+J: Reicht nicht die Farbcodierung der Beiträge aus?
+F: Nein, denn bei der Portierung in andere Webbereiche, bleibt dieses Textattribut i.A. nicht erhalten.
+
+----
+//(Footer) Bitte den Header und Footer für den [[TextBackup]] vom [[UnderPad]] im [[WikiTextEditor]] unverändert erhalten.//
+//Grund: Damit wird das [[WikiBackUp]] leichter und mit [[BackLink]]s angereichert. Danke.//
+[[media type="custom" key="12355248"]]
+[[include component="backlinks" page="{$page}" limit="100"]]

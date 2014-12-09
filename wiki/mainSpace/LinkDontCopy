@@ -1,0 +1,5 @@
+[[HyperLink]]s (gegebenenfalls als [[InterWiki]]) machen jede [[WikiPage]] schlank und uebersichtlich, daher empfehlen wir: "Vermeide Kopien ganzer Artikel oder grosser Abschnitte aus dauerhaft und öffentlich zugänglichen Quellen wie [[WikiPedia]]"
+
+SeeAlso https://www.familysearch.org/learn/wiki/en/FamilySearch_Wiki:Link,_don%E2%80%99t_copy
+
+[[BackLink]]: [[include component="backlinks" page="{$page]"]]

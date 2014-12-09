@@ -1,0 +1,13 @@
+J: Was ist eine SyncInSchablone?
+F: Das ist in unserem Wiki eine vorbesetzte [[WikiSeite]], die beim normalen Neuanlegen automatisch erstellt wird.
+J: Im Optionsfenster bei der Neuanlage erscheint dann "SyncIn".
+..
+----
+[[AutorKuerzel]]: F=[[{$creator}]], J=[[Joker]]
+----
+[[WikiPartnerPadSeite]]: http://sync.in/{$page}, im Wiki komfortabel per [[EtherPadWikiWidget]] erreichbar.
+[[PadPartnerWikiSeite]]: [[{$page}]], [[CcBySa]] {$creationdate},{$creator},DeinKuerzel,..
+[[QuellReferenzen]]:
+[[EtherPadWikiWidget]]: [[media type="custom" key="12355248"]]
+[[BackLinksWidget]]:[[include component="backlinks" page="{$page}" limit="100"]]
+----

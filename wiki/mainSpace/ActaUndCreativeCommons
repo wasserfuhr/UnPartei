@@ -1,0 +1,64 @@
+[[SyncInHeader]]:[[http://sync.in/{$page}]]
+//[[CcBySa]] {$creationdate},{$creator},...//
+<->[[http://unpartei.wikispaces.com/{$page}]]
+----
+[[SyncInAutorInKuerzelListe]]:
+[[AutorInKuerzel]]=[[{$creator}]]
+J=[[Joker]] (kann als [[AutorInKuerzel]] von allen genutzt werden, um einen [[WikiDialog]]zuführen).
+..
+//Liste bitte nach Bedarf erweitern, auch durch ZusatzJokers "J1=Joker, J2=Joker, nickname=Joker//
+//Bei Verwendung eines Jokers wird auf AutorInnen Nennung verzichtet. Dies muss jedeR fuer sich im Einzelfall entscheiden//
+//Normalerweise wird ein [[RealName]] erwartet. Joker dienen hauptsächlich der [[DialogSimulation]], wenn gerade kein echter Partner da ist.//
+----
+==ActaUndCreativeCommons==
+F: Ich habe gemischte Gefühle zum Artikel.
+J: Weshalb?
+F: Einerseits bringt der Artikel http://www.campact.de/acta/info/5min
+ wichtige Hinweise (z.B. (bisher illegale) Polizeifunktionen drohen u. Umständen als mögliche Konseqenz den Providern zugeordnet zu werden).
+J: Und andererseits?
+F: Das bestehende System des "geistigen Eigentums" wird nicht hinterfragt und so als selbstverständlich hingenommen.
+J: Auf welche Stelle im obigen Dokument beziehst du dich da?
+F: Ich zitiere: 
+" 'Aber irgendwie muss das geistige Eigentum doch auch im Internetzeitalter geschützt werden'.
+'Stimmt.' "
+J: Welche Alternative zum bestehenden Copyright System gäbe es denn.
+F: Z.B. http://google.com/search?q=CreativeCommons.
+J: Wenden wir dies nicht in den FB Unpartei Beiträgen hier an.
+F: Ja als http://google.com/search?q=CcBySa
+cu -- fridemar 2012-02-17 17:25:36 CET
+J: Sollten wir die Widerstandsbewegung gegen Acta unterstützen?
+F: Ja, keine Frage. Grund: damit der bisherige Schutz des "geistigen Eigentums" in seiner Übersteigerung nicht noch mehr als Vorwand genutzt werden kann, die Demokratiebewegung im Netz aus fadenscheinigen Gründen auszubremsen.
+J: Warum kritisierst du dann anscheinend Leute, die gegen das Acta-Projekt vorgehen.
+F: Der Schein trügt. Ich kritisiere nur die alten Stereotypen, die selbst bei Kritikern nicht in Frage gestellt werden.
+J: Welche Stereotypen meinst du?
+F: Die Mentalität, die hinter dem obigen Zitat steht;
+" 'Aber irgendwie muss das geistige Eigentum doch auch im Internetzeitalter geschützt werden'.
+'Stimmt.' " 
+cu -- fridemar 2012-02-17 17:35:27 CET
+J: Aber, dass es gewisse Schutzbedürfnisse gibt, steht doch ausser Frage?
+F: Ja, der [[SchutzDerGeistigArbeitenden]], aber nicht der [[SchutzDesGeistigenEigentums]]
+J: Warum diese Unterscheidung?
+F: Weil [[GeistigesEigentum]] auf (jetzt noch) legale Weise den GeistigArbeitenden geraubt werden kann.
+J: Wie das?
+F: Durch unfaire Arbeitsbedingungen bei Verlagen, Verhandlungen, etc. wo der VerwerterDesGeistigenEigentums am längeren Hebel sitzt.
+J: Und wie könnte es zu faireren Arbeitsbedingungen kommen?
+F: Z.B. durch ein http://google.com/search?q=BedingungslosesGrundeinkommen
+ 
+ oder durch eine CreativeCommonsBasierteWirtschaft.
+J: Ich ergänze mal einige CamelCaseWorte durch GoogleSearches, um schon mal zu sehen, ob diese Themen im Bewusstsein von WebCommunities sind.
+F: Ich und andere Interessenten freuen sich auf solche vorbereitete GoogleSearches.
+J: Warum?
+F: Das spart Tipp, Copy- und Pasteaufwand. Es reicht dann schon ein Klick, um die Suche einzuleiten.
+J: Also hier die versprochenen Searches:
+* http://google.com/search?q=SchutzDerGeistigArbeitenden
+* http://google.com/search?q=SchutzDesGeistigenEigentums
+* http://google.com/search?q=VerwerterDesGeistigenEigentums
+* http://google.com/search?q=BedingungslosesGrundeinkommen
+* http://google.com/search?q=CreativeCommonsBasierteWirtschaft
+F: Danke
+cu -- fridemar 2012-02-17 18:07:37 CET
+----
+//[[SyncInFooter]]: Bitte den Header und Footer für den [[TextBackup]] vom [[UnderPad]] im [[WikiTextEditor]] unverändert erhalten.//
+//Grund: Damit wird das [[WikiBackUp]] vom UnderPad leichter und mit [[BackLink]]s angereichert. Danke.//
+[[media type="custom" key="12355248"]] //[[UnderPad]]//
+[[include component="backlinks" page="{$page}" limit="100"]] //[[BackLink]]s//

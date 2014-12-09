@@ -1,0 +1,37 @@
+[[SyncInHeader]]:[[http://sync.in/{$page}]]
+//[[CcBySa]] {$creationdate},{$creator},...//
+<->[[http://unpartei.wikispaces.com/{$page}]]
+Von: https://www.facebook.com/johann.koenitz/posts/193866177380383
+----
+[[SyncInAutorInKuerzelListe]]:
+F=[[{$creator}]]
+J=[[Joker]] (kann als [[AutorInKuerzel]] von allen genutzt werden, um einen [[WikiDialog]]zuführen).
+..
+//Liste bitte nach Bedarf erweitern, auch durch ZusatzJokers "J1=Joker, J2=Joker, nickname=Joker//
+//Bei Verwendung eines Jokers wird auf AutorInnen Nennung verzichtet. Dies muss jedeR fuer sich im Einzelfall entscheiden//
+//Normalerweise wird ein [[RealName]] erwartet. Joker dienen hauptsächlich der [[DialogSimulation]], wenn gerade kein echter Partner da ist.//
+----
+==AufDieVerpackungKommtEsAn==
+F: Die kostbarste Musik von einem Weltklasse Musiker vorgetragen in der Metro Bahnstation zur Rushing hour, findet kaum Anklang.
+J: Kannst du einen Link geben?
+F: Hier ist er (s.o): https://www.facebook.com/johann.koenitz/posts/193866177380383
+J: Ist es nicht das Gleiche bei der gesellschaftlichen Arbeit von engagierten BürgerInnen?
+F: Kannst du da etwas konkreter werden?
+J: Wenn Politik in teueren Imponiergebäuden bei teueren Staatsempfängen, garniert mit Staatskarossen und in sündhaft teuerer Kleidung stattfindet, dann glauben die BürgerInnen, da würde etwas besonders Wertvolles stattfinden und sind bereit dafür Aufmerksamkeit (und SteuerGeld) und unterwürfige Hochachtung zu zollen ..
+F: Und was schlägst du vor?
+J: BürgerInnen und PolitikerInnen sollten stets unter gleichen Bedingungen am RundenTisch sitzen und ihre Positionen und Argumente austauschen, ohne den massenhypnotischen Pomp, der besonders typisch für Diktaturen ist.
+F: Warum dies?
+J: Dann würden die echten Perlen für eine humanere Gesellschaft nicht durch falschen Schein verdeckt werden.
+F: Kannst du Beispiele dafür angeben.
+J: Ja, z.B. [[SystemischesKonsensieren]]
+F: Und vielleicht noch eins?
+J: [[SuperLiquidDemocracy]]
+F: Können noch weitere Perlen genannt werden?
+J: JedeR hier ist eingeladen, dies in einem [[WikiDialog]] zu tun.
+F: Was sollen die doppelten eckigen Klammern?
+J: Das sind Links, die gleich aufgelöst werden in http://unpartei.wikispaces.com/AufDieVerpackungKommtEsAn
+----
+//[[SyncInFooter]]: Bitte den Header und Footer für den [[TextBackup]] vom [[UnderPad]] im [[WikiTextEditor]] unverändert erhalten.//
+//Grund: Damit wird das [[WikiBackUp]] vom UnderPad leichter und mit [[BackLink]]s angereichert. Danke.//
+[[media type="custom" key="12355248"]] //[[UnderPad]]//
+[[include component="backlinks" page="{$page}" limit="100"]] //[[BackLink]]s//

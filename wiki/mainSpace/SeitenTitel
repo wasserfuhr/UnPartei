@@ -1,0 +1,6 @@
+Dokumente im Web haben ueblicherweise einen Titel fuer jede Seite. Bei einem Wiki gilt [[unpartei/SeitenTitel|SeitenTitel]][[http://google.com/search?q=SeitenTitel|➜°]] gleich [[unpartei/LinkText|LinkText]][[http://google.com/search?q=LinkText|➜°]], der auf die jeweilige Seite zeigt.
+Diese Seite hat z.B. als Seitentitel (Pagetitle) den Linktext [[unpartei/SeitenTitel|SeitenTitel]][[http://google.com/search?q=SeitenTitel|➜°]], der auf WikiSeite n vorkommt, die via BackLinks ersichtlich, auf diese Seite zeigen.
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+
+[[➜°]] (What's that?)

@@ -1,0 +1,5 @@
+Eine [[unpartei/WebSeite|WebSeite]][[http://google.com/search?q=WebSeite|➜°]] ist Teil einer [[unpartei/WebSite|WebSite]][[http://google.com/search?q=WebSite|➜°]].
+Insbesondere ist jede [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite|➜°]] ein Teil der [[unpartei/WebSite|WebSite]][[http://google.com/search?q=WebSite|➜°]] des [[unpartei/UnParteiWiki|UnParteiWiki]][[http://google.com/search?q=UnParteiWiki|➜°]] s.
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+[[https://www.google.com/search?q={$page}|GoogleThis]]

@@ -1,0 +1,17 @@
+F: Danke lieber R fuer die Frage [[unpartei/WieBeeinflusst_Albu_GoogleBot|WieBeeinflusst_Albu_GoogleBot]][[http://google.com/search?q=WieBeeinflusst_Albu_GoogleBot|➜°]], die du in [[unpartei/GoogleTransparenz|GoogleTransparenz]][[http://google.com/search?q=GoogleTransparenz|➜°]] gestellt hast. Da gibt es einiges zu erlaeutern
+F1: z.B. dass das bookmarklet [[unpartei/AlBu|AlBu]][[http://google.com/search?q=AlBu|➜°]] auf mehreren Ebenen wirkt und ...
+F2: damit auf verschiedene Weisen auf den [[unpartei/GoogleBot|GoogleBot]][[http://google.com/search?q=GoogleBot|➜°]] einwirkt.
+F3: Beispiele bitte?
+F2: Wenn das bookmarklet nur zum Anschauen (per Klick auf ein [[unpartei/KlarText|KlarText]][[http://google.com/search?q=KlarText|➜°]] Dokument) angewendet wird und auf der Seite ein [[unpartei/GoogleThis_ErklaerungsHinweis|GoogleThis_ErklaerungsHinweis]][[http://google.com/search?q=GoogleThis_ErklaerungsHinweis|➜°]] steht, ..
+F4: ... der nicht zu verwechseln ist mit einem [[unpartei/GoogleThis_SuchLinkZumSeitenTitel|GoogleThis_SuchLinkZumSeitenTitel]][[http://google.com/search?q=GoogleThis_SuchLinkZumSeitenTitel|➜°]] ..
+F2: .. dann können (nicht nur) [[unpartei/QuerEinsteiger|QuerEinsteiger]][[http://google.com/search?q=QuerEinsteiger|➜°]], die motiviert sind, die gemeinsame [[unpartei/GestaltungsArbeit|GestaltungsArbeit]][[http://google.com/search?q=GestaltungsArbeit|➜°]] zu verstaerken, leicht auf [[unpartei/GoogleThis_AlsBestandteilVonAutoLink|GoogleThis_AlsBestandteilVonAutoLink]][[http://google.com/search?q=GoogleThis_AlsBestandteilVonAutoLink|➜°]] s von ihrem externen [[unpartei/WebBeitrag|WebBeitrag]][[http://google.com/search?q=WebBeitrag|➜°]] (z.B.
+[[unpartei/FaceBook|FaceBook]][[http://google.com/search?q=FaceBook|➜°]] wie bisher praktiziert) auf beliebige Seiten im [[unpartei/UnWiki|UnWiki]][[http://google.com/search?q=UnWiki|➜°]] hinweisen, das selbst erklaerende Verfahren nutzen und promoten. Der [[unpartei/GoogleRank|GoogleRank]][[http://google.com/search?q=GoogleRank|➜°]] erhoeht sich damit.
+F4: .. Ergaenzung, wenn in dem voreingestellten [[unpartei/Unpartei_Seiten_Template|Unpartei_Seiten_Template]][[http://google.com/search?q=Unpartei_Seiten_Template|➜°]] nur [[unpartei/GoogleThis_SuchLinkZumSeitenTitel|GoogleThis_SuchLinkZumSeitenTitel]][[http://google.com/search?q=GoogleThis_SuchLinkZumSeitenTitel|➜°]] steht, wird dieser Effekt leider nicht erreicht ...
+F3: Anderes Beispiel bitte?
+F2: Here [[unpartei/DanielThurston|DanielThurston]][[http://google.com/search?q=DanielThurston|➜°]] and the author (years ago) tested the sensibility of the [[unpartei/GoogleBot|GoogleBot]][[http://google.com/search?q=GoogleBot|➜°]] to accept and index [[unpartei/GoogleTag|GoogleTag]][[http://google.com/search?q=GoogleTag|➜°]] s. The results were mindblowing.
+F4: Those times the [[unpartei/AutoLinkBookmarklet|AutoLinkBookmarklet]][[http://google.com/search?q=AutoLinkBookmarklet|➜°]] wasn't yet invented, but the underlying principle of links to the [[unpartei/GoogleBot|GoogleBot]][[http://google.com/search?q=GoogleBot|➜°]] was the same ... and it worked
+F3: And what was the link?
+F2: http://meatballwiki.org/wiki/CMapsSandbox
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+[[https://www.google.com/search?q={$page}|GoogleThis]]

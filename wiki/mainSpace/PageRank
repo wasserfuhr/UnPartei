@@ -1,0 +1,6 @@
+which PageName has the best PageRank?:
+
+1: UnPartei
+7: GoogleResonanz
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

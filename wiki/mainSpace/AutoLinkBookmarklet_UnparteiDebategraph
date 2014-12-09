@@ -1,0 +1,26 @@
+Beschreibung
+F1: Das folgende BookMarklet, erzeugt in reinen Textkommentaren aus gewissen MusterZeichenketten Dreifachlinks.
+F2: Was ist ein BookMarklet?
+F1: Das ist ein kurzer JavaScript Text, wie der folgende EinZeiler zwischen den Trennlinien
+F3: Mehr Information liefert eine GoogleSuche ...
+F1: .. die gerade durch dieses Bookmarklet unterstützt wird?
+F2: Wie wird das in diesem Fall unterstützt?
+F1: Wenn das BookMarklet auf diesen Text angewendet wird, steht hinter "BookMarklet" ein hochgestellter kleiner klickbarer Kreis, der eine GoogleSuche einleitet.
+F2: Und wie wird das BookMarklet angewandt?
+
+Einrichtung
+F1: Den folgenden JavaScript Block selektieren ...
+F2: Nicht die gestrichelten Linien mitnehmen!
+F1: dann in die BookMarkLeiste des Browsers ziehen und ..
+F2: den Kurznamen albud geben.
+
+Anwendung
+F1: Auf FacebookSeiten Texte mit speziellen Linkmustern "linkifzieren"durch Klick auf Bookmarklet.
+F2: Gib mal paar LinkMuster als Beispiel.
+F1: CamelCase , Bindestrich-Worte , Worte_mit_Unterstrichen , "quotierte Texte"
+F3: Jetzt koennen auch Umlaute wie äöü und ÄÖÜ korrekt verarbeitet werden.
+----
+javascript:function albud(){var WikiPrefix='http://unpartei.wikispaces.com/';var DebategraphPrefix='http://debategraph.org/';var DesporaPrefix='https://despora.de/tags/';var GooglePrefix='http://google.com/search?q';var textNodeXpath='.//text()[not(ancestor::a) and not(ancestor::head)and not(ancestor::option) and not(ancestor::textarea)]';var textNodes=document.evaluate(textNodeXpath,document,null,XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE,null);var len=textNodes.snapshotLength;var reg=/^\s+$/g;var linkpatt=/\bcC\b|[\s,.-;:_!?()]\"[^\"]+\"[\s,.-;:_!?()]|\[\[.+\]\]|\b[\wäöüÄÖÜß]*(-([\wäöüÄÖÜß]*))+\b|\b[\wäöüÄÖÜß]*(_([\wäöüÄÖÜß]*))+\b|\b(?:([a-zäöü]*[A-ZÄÖÜ][a-zäöüß]*){2,})\b|#\w+\b/g;for(var i=0;i<len;i++){var node=textNodes.snapshotItem(i);var txt=node.nodeValue;txt=txt.replace(reg,'');if(linkpatt.test(txt)){var span=document.createElement('span');var lastLastIndex=0;linkpatt.lastIndex=0;try{while(myArray=linkpatt.exec(txt)){var link=myArray[0];span.appendChild(document.createTextNode(txt.substring(lastLastIndex,myArray.index)));lastLastIndex=linkpatt.lastIndex;var linkText=myArray[1];var link=myArray[0];var llen=link.length;if(link.substring(0,2)==''&&link.substring(llen-2,llen)==''){link=link.substring(2,llen-2);}var href;if(link.charAt(0)=='#'){href=DesporaPrefix+link.substring(1,llen);}else href=WikiPrefix+link;var a=document.createElement('a');a.setAttribute('href',href);a.appendChild(document.createTextNode(link));span.appendChild(a);if(link.charAt(0)=='#')link=link.substring(1,llen);href=GooglePrefix+"="+link;var b=document.createElement('a');b.setAttribute('href',href);b.appendChild(document.createTextNode(' ° '));span.appendChild(b);href=DebategraphPrefix+link;var c=document.createElement('a');c.setAttribute('href',href);c.appendChild(document.createTextNode(' ^ '));span.appendChild(c);}span.appendChild(document.createTextNode(txt.substring(lastLastIndex)));node.parentNode.replaceChild(span,node);}catch(e){alert(e);}}}}albud();
+----
+
+[[include component="backlinks" page="AutoLinkBookmarklet_UnParteiDebategraph" limit="100"]]

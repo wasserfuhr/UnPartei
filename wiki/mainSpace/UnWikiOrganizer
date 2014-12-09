@@ -1,0 +1,14 @@
+an organizer of the [[UnWiki]] as listed in [[UnAbout]].
+
+Anders als [[UnWikiMember]] haben [[UnWikiOrganizer]] laut http://help.wikispaces.com/Privacy+and+Permissions#Overview
+vor allem zusätzliche Rechte zum [[PageLock]] und zum [[PageDelete]].
+
+[[AnTrag]]: [[UnWikiOrganizer]] kann nur werden wer seinen [[RealName]] angibt. Unterstützer:
+* [[RaWa]]
+* [[WajKoenitz]]
+* [[AlJo]]
+* [[FriPa]]
+
+[[WikiLike]]: [[FriPa]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

@@ -1,0 +1,21 @@
+[[SyncInHeader]]:[[http://sync.in/{$page}]]
+//[[CcBySa]] {$creationdate},{$creator},...//
+<->[[http://unpartei.wikispaces.com/{$page}]]
+----
+[[SyncInAutorInKuerzelListe]]:
+[[AutorInKuerzel]]=[[{$creator}]]
+J=[[Joker]] (kann als [[AutorInKuerzel]] von allen genutzt werden, um einen [[WikiDialog]] zu führen).
+..
+//Liste bitte nach Bedarf erweitern, auch durch ZusatzJokers "J1=Joker, J2=Joker, nickname=Joker//
+//Bei Verwendung eines Jokers wird auf AutorInnen Nennung verzichtet. Dies muss jedeR fuer sich im Einzelfall entscheiden//
+//Normalerweise wird ein [[RealName]] erwartet. Joker dienen hauptsächlich der [[DialogSimulation]], wenn gerade kein echter Partner da ist.//
+----
+J: Was ist die [[SyncInAutorInKuerzelListe]]?
+F: Das ist die benutzererweiterbare Liste der [[AutorInKuerzel]], die hier einen [[WikiDialog]] führen.
+J: Wozu brauchen wir dieses? (Ich weiss es, aber als Frage für die anderen :-)
+F: Darüber haben wir uns in [[AutorInKuerzel]] ausgelassen.
+----
+//[[SyncInFooter]]: Bitte den Header und Footer für den [[TextBackup]] vom [[UnderPad]] im [[WikiTextEditor]] unverändert erhalten.//
+//Grund: Damit wird das [[WikiBackUp]] vom UnderPad leichter und mit [[BackLink]]s angereichert. Danke.//
+[[media type="custom" key="12355248"]] //[[UnderPad]]//
+[[include component="backlinks" page="{$page}" limit="100"]] //[[BackLink]]s//
