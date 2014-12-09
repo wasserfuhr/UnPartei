@@ -1,0 +1,7 @@
+* [[RaWa]]: achte bei [[unpartei/CamelCase|CamelCase]][[http://google.com/search?q=CamelCase|➜°]] auf die genaue Gross- und Kleinschreibung: Die [[unpartei/UnApp|UnApp]][[http://google.com/search?q=UnApp|➜°]] wird [[unpartei/CaseSensitiv|CaseSensitiv]][[http://google.com/search?q=CaseSensitiv|➜°]] sein.
+* [[unpartei/FriPa|FriPa]][[http://google.com/search?q=FriPa|➜°]]: This especially fosters [[unpartei/WikiDialog|WikiDialog]][[http://google.com/search?q=WikiDialog|➜°]] s to collaborate on [[unpartei/JavaCode|JavaCode]][[http://google.com/search?q=JavaCode|➜°]] and [[unpartei/JavaScriptCode|JavaScriptCode]][[http://google.com/search?q=JavaScriptCode|➜°]]. Thankyou//
+* F1: What about supporting [[unpartei/CloJure|CloJure]][[http://google.com/search?q=CloJure|➜°]] with hyphenatedWord s like-this?
+* [[RaWa]]: this would break the [[AutoLink]]s of over 17000 [[WikiPage]]s of the MindWiki.
+* F1: How that? Besides the normal CamelCase Links it appears to open up a secondary parallel AutoLink Space, that remains invisible, if not used. 
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

@@ -1,0 +1,7 @@
+Im [[unpartei/VisualEditMode|VisualEditMode]][[http://google.com/search?q=VisualEditMode|➜°]] des Wiki Editors von [[unpartei/WikiSpaces|WikiSpaces]][[http://google.com/search?q=WikiSpaces|➜°]] kann wie in einer gewöhnlichen [[unpartei/WysiWyg|WysiWyg]][[http://google.com/search?q=WysiWyg|➜°]] Textverarbeitung gearbeitet werden.
+Alternativ dazu gibt es den [[unpartei/TextEditMode|TextEditMode]][[http://google.com/search?q=TextEditMode|➜°]], der eine Seitenbearbeitung in traditionellem [[unpartei/WikiMarkup|WikiMarkup]][[http://google.com/search?q=WikiMarkup|➜°]] erlaubt.
+
+[[https://www.google.com/search?q={$page}|➜GoogleThis]]
+[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

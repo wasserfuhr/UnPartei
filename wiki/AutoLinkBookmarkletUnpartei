@@ -1,0 +1,17 @@
+[[media type="custom" key="23279670"]]
+
+Diese [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite|➜°]] ist eine [[unpartei/IFrame|IFrame]][[http://google.com/search?q=IFrame|➜°]] Seite. Auf solchen Seiten funktioniert das Bookmarklet extern angewandt (aus guten Gruenden) nicht.
+Es funktioniert jedoch intern angewandt, d.h. wenn auf den obigen Bookmarklet Link albu geklickt wird.
+
+Die [[http://dl.dropbox.com/u/3593836/albu.html zugehoerige [[unpartei/DropBox|DropBox]][[http://google.com/search?q=DropBox|➜°]] Seite]], auf der der Autor sein Bookmarklet (die hier im [[unpartei/UnWiki|UnWiki]][[http://google.com/search?q=UnWiki|➜°]] als [[unpartei/IFrame|IFrame]][[http://google.com/search?q=IFrame|➜°]] inkludiert ist) anbietet, ermoeglicht sowohl die interne
+als auch die externe Anwendung des Bookmarklets.
+
+Das Bookmarklet kann gleich von hier in die [[unpartei/LesezeichenListe|LesezeichenListe]][[http://google.com/search?q=LesezeichenListe|➜°]] des Browsers per [[unpartei/DragAndDrop|DragAndDrop]][[http://google.com/search?q=DragAndDrop|➜°]] mit der Mouse gezogen
+und auf [[unpartei/CamelCaseTestSeite|CamelCaseTestSeite]][[http://google.com/search?q=CamelCaseTestSeite|➜°]]<span style="font-size: 13px; line-height: 1.5;"> getestet werden.</span>
+
+
+Mehr im alten Text dieser Seite:
+[[unpartei/AutoLinkBookmarkletUnpartei_Old|AutoLinkBookmarkletUnpartei_Old]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei_Old|➜°]].
+
+
+[[include component="backlinks" page="AutoLinkBookmarklet_UnParteiDebategraph" limit="100"]]

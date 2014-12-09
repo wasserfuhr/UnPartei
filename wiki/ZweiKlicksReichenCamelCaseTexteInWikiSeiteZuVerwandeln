@@ -1,0 +1,7 @@
+Angenommen, ein Text aus Facebook (mit [[unpartei/KopierErlaubnis|KopierErlaubnis]][[http://google.com/search?q=KopierErlaubnis| ° ]] z.B. [[unpartei/CcBySa|CcBySa]][[http://google.com/search?q=CcBySa| ° ]]) wird als [[unpartei/KlarText|KlarText]][[http://google.com/search?q=KlarText| ° ]] ins Wiki kopiert, dann
+
+1. Klick auf das [[unpartei/AutoBookmarklet|AutoBookmarklet]][[http://google.com/search?q=AutoBookmarklet| ° ]] erzeugt in einem Arbeitsgang alle [[unpartei/CamelCaseWort|CamelCaseWort]][[http://google.com/search?q=CamelCaseWort| ° ]] e als [[unpartei/DoppelLink|DoppelLink]][[http://google.com/search?q=DoppelLink| ° ]] s
+2. Klick auf Edit im [[unpartei/VisualEditor|VisualEditor]][[http://google.com/search?q=VisualEditor| ° ]] übernimmt die [[unpartei/WikiFizierte|WikiFizierte]][[http://google.com/search?q=WikiFizierte| ° ]] Seite mit allen Links.
+3. Klick auf Save sichert das Ergebnis
+
+[[include component="backlinks" page="{$page}"]]

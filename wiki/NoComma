@@ -1,0 +1,7 @@
+[[SeiKurz]]: Lasse bei Aufzählungen wie [[WikiTag]] oder [[WikiLike]] das Komma weg. Ein [[LeerZeichen]] reicht völlig aus.
+
+[[FriPa]]: Yes, however as a [[WikiTag]] list serves also as a building block to be used in [[ExternalContribution]]s, it would be helpful to know, which provider wants a [[CommaSeparatedList_ForTags]].
+[[RaWa]]: [[YagNi]], as long as [[ExternalContribution]] isn't defined.
+[[unpartei/FriPa|FriPa]][[http://google.com/search?q=FriPa|➜°]]: e.g. [[unpartei/BlogGer|BlogGer]][[http://google.com/search?q=BlogGer|➜°]], [[unpartei/ClipBoardPlus|ClipBoardPlus]][[http://google.com/search?q=ClipBoardPlus|➜°]], [[unpartei/PostAtPosterous|PostAtPosterous]][[http://google.com/search?q=PostAtPosterous|➜°]] want commata .. in their tag lists. But for purists of Forth, Clojure, Groovy (like myself) it is esthetically more pleasing to space-delimite the tags. ;)
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

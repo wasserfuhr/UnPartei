@@ -1,0 +1,38 @@
+[[unpartei/AutoLinkChromeAddon|AutoLinkChromeAddon]][[http://google.com/search?q=AutoLinkChromeAddon|➜°]][[https://despora.de/tags/AutoLinkChromeAddon| ¹]][[http://piratenpad.de/p/AutoLinkChromeAddon| ²]][[http://debategraph.org/AutoLinkChromeAddon| ³]] testing
+
+This Chrome Extension allows maximal 5 userdefinable Multi- [[unpartei/AutoLinks|AutoLinks]][[http://google.com/search?q=AutoLinks|➜°]][[https://despora.de/tags/AutoLinks| ¹]][[http://piratenpad.de/p/AutoLinks| ²]][[http://debategraph.org/AutoLinks| ³]] for each [[unpartei/CamelCaseWord|CamelCaseWord]][[http://google.com/search?q=CamelCaseWord|➜°]][[https://despora.de/tags/CamelCaseWord| ¹]][[http://piratenpad.de/p/CamelCaseWord| ²]][[http://debategraph.org/CamelCaseWord| ³]]
+You can think of it as [[unpartei/ExternalFootMarks|ExternalFootMarks]][[http://google.com/search?q=ExternalFootMarks|➜°]] or better as a multiplicity of Synapses, which foster the [[unpartei/GlobalBrain|GlobalBrain]][[http://google.com/search?q=GlobalBrain|➜°]].
+[[code format="javascript"]]
+var WikiMap = [
+'http://unpartei.wikispaces.com/',
+'http://google.com/search?q=',
+'https://despora.de/tags/',
+'http://piratenpad.de/p/',
+'http://debategraph.org/'
+],
+...
+[[code]]
+
+<span style="font-size: 13px; line-height: 1.5;">Each entry in the [[unpartei/WikiMap|WikiMap]][[http://google.com/search?q=WikiMap|➜°]][[https://despora.de/tags/WikiMap| ¹]][[http://piratenpad.de/p/WikiMap| ²]][[http://debategraph.org/WikiMap| ³]] (similar to [[unpartei/InterWikiMap|InterWikiMap]][[http://google.com/search?q=InterWikiMap|➜°]], [[unpartei/InterMap|InterMap]][[http://google.com/search?q=InterMap|➜°]], etc. ,,) can be replaced by the user.</span>
+
+If [[unpartei/WikiMap|WikiMap]][[http://google.com/search?q=WikiMap|➜°]] constains only one entry, it produces only one [[MainLink]].
+If [[unpartei/WikiMap|WikiMap]][[http://google.com/search?q=WikiMap|➜°]] contains only two entries, this produces one [[unpartei/MainLink|MainLink]][[http://google.com/search?q=MainLink|➜°]] and one [[unpartei/MinorLink|MinorLink]][[http://google.com/search?q=MinorLink|➜°]] like e.g.: in this line.
+In the above [[unpartei/CodeFragment|CodeFragment]][[http://google.com/search?q=CodeFragment|➜°]] the main link is defined by the first entry: <span style="font-size: 13px; line-height: 1.5;">'http://unpartei.wikispaces.com/'.</span>
+
+The following Links are minor links, with
+* 'http://google.com/search?q=', being the [[unpartei/WikiPrefix|WikiPrefix]][[http://google.com/search?q=WikiPrefix|➜°]] for "0"
+* 'https://despora.de/tags/', for "1"
+* 'http://piratenpad.de/p/', for "2"
+* 'http://debategraph.org/' for "3"
+
+Interested?
+
+cu -- [[unpartei/FriPa|FriPa]][[http://google.com/search?q=FriPa|➜°]] 2013-05-23 02:09:44 [[unpartei/CET|CET]][[http://google.com/search?q=CET|➜°]] [[unpartei/CcBySa|CcBySa]][[http://google.com/search?q=CcBySa|➜°]]
+
+Ref:
+https://www.facebook.com/fridemar.pache/posts/10151487604496909
+
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+
+[[media type="custom" key="21819630"]]

@@ -1,0 +1,38 @@
+OverLinked
+
+RaWa vermutet, dass das derzeit von FriPa eingesetzte AlBu bei vielen Lesern einen negativen Eindruck von "OverLinked"-ness erzeugt, der bei einem gründlichen UsabilityTest auch zeigen dürfte, dass dadurch viele Besucher schnell wieder das UnParteiWiki verlassen.
+
+Die drei starken visuelle Signale (blau, blau, grün) von
+* GoogleThis-Pfeil,
+* KrinGel und
+* dem von WikiSpaces noch angehängten Pfeil
+
+mitten im FliessText dürften mehr irritieren als zu IncidentalCollaboration führen (//"was FriPa bei Wegfall von AlBu [und der daraus entfallenden GoogleTransparenz] bezweifelt"//).
+
+Dabei sollten die Nutzer doch zuerst die WikiPage's selbst lesen, bevor sie **dann** als GoogleSearchJunkie weitermachen können.
+
+Besser wäre also wohl, entsprechen PageFormat das GoogleThis nur unten am Ende der jeweiligen WikiPage anzufügen, nicht aber im FliessText.
+
+AlBu würde damit auf die Funktion optimiert, CamelCase zu entdecken.
+
+Inbesondere würde RaWa gern am Beispiel von http://unpartei.wikispaces.com/page/diff/AssumeGoodFaith?v1=346829938&v2=346831420&mode=code
+verstehen, welchen Vorteil sich FriPa vom Wiederholen des PageName zu Beginn der Seite erhofft.
+
+AlternativPosition Dediziertes WikiFuerAlBu:
+Momentan befinden wir uns in einer embryonalen Phase, wo es erstmal darum geht, neuronales Wachstum zu erzeugen und weniger um lesbare Texte.
+Vielleicht sollten wir ein dediziertes Wiki für dieses Experiment schaffen, wo dieser Stil weltweit erprobt werden kann?
+Ja, ein TwinWiki könnte es bringen ...
+
+AlternativPosition CamelCaseOnly ohne Links:
+Wir könnten wir auch Seiten ganz ohne Links machen bis auf eine FussZeile mit Links auf verschiedene LinkGeneratoren, wobei AlBuNurEinGeneratorUnterVielen wäre.
+
+Damit hätten wir das starre Konzept konstanter Links durch ein Konzept benutzervariabler Links erweitert .. der SeitenInhalt liesse sich auch leichter "händisch" editieren
+und UnApp könnte die Seite leichter parsen :-)
+
+Der Nachteil allerdings bei solchen NoAlbu Seiten wäre, dass wir uns fuer GoogleIntransparent machen würden und die Chance vermasseln, gerade jetzt das noch völlig unbesetzte Feld fuer WebWikiFy zu
+erschliessen.
+
+WikiPragma: NoAlbu
+
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

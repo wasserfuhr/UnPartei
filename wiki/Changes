@@ -1,0 +1,4 @@
+-> http://unpartei.wikispaces.com/wiki/changes
+
+[[BackLinksWidget]]:[[include component="backlinks" page="{$page}" limit="100"]]
+----

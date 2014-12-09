@@ -1,0 +1,21 @@
+[[unpartei/ScrollFree|ScrollFree]][[http://google.com/search?q=ScrollFree| ° ]] is a [[unpartei/WikiPage|WikiPage]][[http://google.com/search?q=WikiPage| ° ]], if everything can be seen at one glance, without the need for scrolling.
+
+[[unpartei/SrollFree|SrollFree]][[http://google.com/search?q=SrollFree| ° ]] ist eine [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite| ° ]], wenn alles auf einen Blick gesehen werden kann, ohne Scrollen zu muessen.
+
+Benefits:
+* you can overlook the page at one glance
+* easier to joint-edit it with Etherpad
+* easier [[unpartei/ReFactoring|ReFactoring]][[http://google.com/search?q=ReFactoring| ° ]], because now you have a clear signal when [[unpartei/PageToBigToEdit|PageToBigToEdit]][[http://google.com/search?q=PageToBigToEdit| ° ]]
+* easier to distribute in the whole Web by [[unpartei/ClipboardPlus|ClipboardPlus]][[http://google.com/search?q=ClipboardPlus| ° ]]
+
+Vorteile:
+* ermöglicht leichteres [[unpartei/ReFactoring|ReFactoring]][[http://google.com/search?q=ReFactoring| ° ]].
+* ermöglicht leichteres und ganzheitlicheres Clipping mit z.B. [[unpartei/ClipBoardPlus|ClipBoardPlus]][[http://google.com/search?q=ClipBoardPlus| ° ]]
+* motiviert auch Kurzbeitraege wie Tweets (mit [[unpartei/CamelCaseLink|CamelCaseLink]][[http://google.com/search?q=CamelCaseLink| ° ]] s)
+
+[[unpartei/SeeAlso|SeeAlso]][[http://google.com/search?q=SeeAlso| ° ]]: http://www.communitywiki.org/en/ThisPageIsWayTooBig
+
+[[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags| ° ]]: [[unpartei/NutzerFreundlich|NutzerFreundlich]][[http://google.com/search?q=NutzerFreundlich| ° ]]
+
+Ref:
+[[include component="backlinks" page="{$page}"]]

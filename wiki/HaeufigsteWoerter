@@ -1,0 +1,5 @@
+http://mindbroker.de/wiki/HaeufigsteWoerter
+
+#PageRank
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

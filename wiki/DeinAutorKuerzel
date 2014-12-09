@@ -1,0 +1,15 @@
+J: Was ist DeinAutorKuerzel?
+F: Das ist in meinem Fall das vorangestellte "F", das eine Kurzform ..
+J: deines [[RealName]]ns ist und der heisst in deinem Fall?
+F: [[fridemar]]
+J: Analog stellt die [[SyncInSchablone]] dies für jeden [[Autor]] im Wiki bereit.
+..
+----
+[[AutorKuerzel]]: F=[[{$creator}]], J=[[Joker]], [[DeinAutorKuerzel]]=[[RealName]], ..
+----
+[[WikiPartnerPadSeite]]: http://sync.in/{$page}, im Wiki komfortabel per [[EtherPadWikiWidget]]erreichbar.
+[[PadPartnerWikiSeite]]: [[{$page}]], [[CcBySa]] {$creationdate},{$creator},DeinKuerzel,..
+[[QuellReferenzen]]:
+[[EtherPadWikiWidget]]: [[media type="custom" key="12355248"]]
+[[BackLinksWidget]]:[[include component="backlinks" page="{$page}" limit="100"]]
+----

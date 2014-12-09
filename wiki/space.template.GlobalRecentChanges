@@ -1,0 +1,33 @@
+[[code format="javascript"]]
+<span style="font-size: 14px;"><span style="font-size: 14px;"><script type="text/javascript"></span></span>
+[[code]]
+<span style="font-size: 14px;">**/* Dieses HTML-JavaScript Widget erlaubt, im String Array "wikis", die Namen einiger Wikis aus WikiSpace einzusetzen mit folgendem Effekt:**</span>
+<span style="font-size: 14px;">**Am Ende jeder WikiSeite , in der dieses Widget eingesetzt wird, werden die RecentChanges ("Letzten Aenderungen") der genannten Wikis**</span>
+<span style="font-size: 14px;">**angezeigt. Mit Scrollen oder PgDown sind diese Übersichten alle leicht erreichbar.**</span>
+<span style="font-size: 14px;">**Enjoy**</span>
+<span style="font-size: 14px;">**-- fridemar**</span>
+<span style="font-size: 14px;">**CcBySa**</span>
+<span style="font-size: 14px;">**2012-Februar-10 21:39:29**</span>
+<span style="font-size: 14px;">***/**</span>
+[[code format="javascript"]]
+<span style="font-size: 14px;"><span style="font-size: 14px;">var wikis=["einanderhelfen", "dresdenmorgen", "edj-dresden","ruedigerruehlemann","TheEdgeFund","waj-koenitz","alexanderjobst","unpartei"];
+
+function RecentChanges (WikiName) {
+  var syncpage='http://'+ WikiName + '.wikispaces.com/wiki/changes';
+  var el = document.createElement("iframe");
+  el.setAttribute("style", "width: 100%; height: 800px; border: none;");
+  el.setAttribute('src', syncpage);
+  document.body.appendChild(el);
+}
+
+function AddRecentChanges(wikis) {
+  for (var i = 0; i < wikis.length; i++) {
+  RecentChanges(wikis[i]);
+  }
+}
+
+AddRecentChanges(wikis);
+
+</script></span></span>
+[[code]]
+<span style="font-size: 14px;">[[media type="custom" key="12436830"]]</span>

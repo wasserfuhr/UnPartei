@@ -1,0 +1,23 @@
+J: Was ist eine [[PadPartnerWikiSeite]]?
+F: Das ist das Gegenstück zu einer [[WikiPartnerPadSeite]]
+F: Wir schreiben gerade auf einer Seite des [[WikiPartnerPad]]s http://sync.in/ ..
+J: ... die verbunden ist mit dem [[PadPartnerWiki]]: http://unpartei.wikispaces.com
+J: Und welches ist die zugehörige [[WikiSeite]] zu dieser [[PadSeite]]?
+F: Darf ich deine Frage ergänzen mit dem Namen dieser PadSeite?
+J: Ja, kann auch ich machen. Wir schreiben hier auf  http://sync.in/WikiPartnerPadSeite
+F: Ok, dann heisst die zugehörige [[PadPartnerWikiSeite]].. 
+J: .. http://unpartei.wikispaces.com/PadPartnerWikiSeite
+F: Das ist natuerlich nur ein Beispiel für eine spezielle PadSeite.
+J: Genau so kann eine beliebige MusterSeite im Pad ein Gegenstück im [[PartnerWiki]] haben.
+F: Und genau so kann eine beliebige Musterseite im Wiki ein Gegenstück im [[PartnerPad]] haben.
+J: Für weitere Fragen im [[WikiDialog]] stehen wir gern zur Verfügung.
+..
+----
+[[AutorKuerzel]]: F=[[{$creator}]], J=Joker
+----
+[[WikiPartnerPadSeite]]: http://sync.in/WikiPartnerPadSeite, im Wiki komfortabel per [[EtherPadWikiWidget]] erreichbar.
+[[PadPartnerWikiSeite]]: [[http://unpartei.wikispaces/WikiPartnerPadSeite]], [[CcBySa]] {$creationdate},{$creator},DeinKuerzel,..
+[[QuellReferenzen]]:
+[[EtherPadWikiWidget]]: [[media type="custom" key="12355248"]]
+[[BackLinksWidget]]:[[include component="backlinks" page="{$page}" limit="100"]]
+----

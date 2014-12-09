@@ -1,0 +1,17 @@
+Bei einem Eintrag [[unpartei/MussIchAllesAlleinMachen|MussIchAllesAlleinMachen]][[http://google.com/search?q=MussIchAllesAlleinMachen|➜°]] hiesse dies
+
+[[Muss ich alles allein machen]] (8 zusätzl. Zeichen!) .
+
+Da moderne Suchmaschinen wie Google eine [[unpartei/WortstammZerlegung|WortstammZerlegung]][[http://google.com/search?q=WortstammZerlegung|➜°]] von strings machen, würde Google auch unter
+>> [[unpartei/MussIchAllesAlleinMachen|MussIchAllesAlleinMachen]][[http://google.com/search?q=MussIchAllesAlleinMachen|➜°]]
+
+Eintraege unter "Muss ich alles allein machen" (ohne Quotes) finden.
+
+Vergleiche dies mit
+
+>>http://google.com/search?q="Muss ich alles allein machen"  (Strings in Suchanfragen werden von wikispaces nicht unterstützt)
+
+[[http://google.com/search?q=%22Muss%20ich%20alles%20allein%20machen%22|"Muss ich alles allein machen"]] 
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+
+[[media type="custom" key="21819630"]]

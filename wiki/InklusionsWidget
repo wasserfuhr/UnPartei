@@ -1,0 +1,15 @@
+Ein [[unpartei/InklusionsWidget|InklusionsWidget]][[http://google.com/search?q=InklusionsWidget|➜°]] hilft, den Inhalt sich aendernder (externer) [[unpartei/WebSeite|WebSeite]][[http://google.com/search?q=WebSeite|➜°]] n ohne weiteren Aufwand im Wiki abzubilden:
+
+Beispiel:
+
+Der verwendete Code fuer die Seite [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei|➜°]] lautet:
+
+[[code format="javascript"]]
+<div><a href="http://dl.dropbox.com/u/3593836/albu.html" rel="nofollow" target="internal">Sync.in|</a></div>
+<iframe id="internal" name="internal" src="http://dl.dropbox.com/u/3593836/albu.html" style="height: 670px; width: 95%;"></iframe>
+[[code]]
+
+[[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags|➜°]]: [[unpartei/InKlusion|InKlusion]][[http://google.com/search?q=InKlusion|➜°]], [[unpartei/TransKlusion|TransKlusion]][[http://google.com/search?q=TransKlusion|➜°]], [[unpartei/TransClusion|TransClusion]][[http://google.com/search?q=TransClusion|➜°]], [[unpartei/WidGet|WidGet]][[http://google.com/search?q=WidGet|➜°]]
+
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

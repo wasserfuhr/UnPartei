@@ -1,0 +1,24 @@
+[[media type="custom" key="23375196"]]Der Code fuer das [[unpartei/PiratenPadWidget|PiratenPadWidget]][[http://google.com/search?q=PiratenPadWidget|➜°]] lautet:
+
+[[code format="javascript"]]
+<script type="text/javascript">
+//<![CDATA[
+var syncpage='http://piratenpad.de/p/'+ wikispaces_page;
+var el = document.createElement("iframe");
+el.setAttribute("style", "width: 100%; height: 700px; border: none;");
+//el.style.width = "100%";
+//el.style.height = "800px";
+el.setAttribute('src', syncpage);
+document.body.appendChild(el);
+//]]>
+</script>
+[[code]]
+
+Im [[unpartei/EditMode|EditMode]][[http://google.com/search?q=EditMode|➜°]] waehle
+
+Widget->Other und dann diesen Code einbetten ([[unpartei/CopyAndPaste|CopyAndPaste]][[http://google.com/search?q=CopyAndPaste|➜°]]). Bitte auf der Zielseite nicht vergessen, das Dokument mit [[unpartei/CcBySa|CcBySa]][[http://google.com/search?q=CcBySa|➜°]] zu lizenzieren, damit der
+freie Kommunikationsfluss in beiden Richtungen gehen kann ([[unpartei/ColLage|ColLage]][[http://google.com/search?q=ColLage|➜°]], [[unpartei/MashUp|MashUp]][[http://google.com/search?q=MashUp|➜°]], [[unpartei/DerivativeArbeit|DerivativeArbeit]][[http://google.com/search?q=DerivativeArbeit|➜°]] mit [[unpartei/QuellenLink|QuellenLink]][[http://google.com/search?q=QuellenLink|➜°]] und [[unpartei/WeitergabeUnterGleichenBedingungen|WeitergabeUnterGleichenBedingungen]][[http://google.com/search?q=WeitergabeUnterGleichenBedingungen|➜°]]).
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+
+[[media type="custom" key="21819630"]]

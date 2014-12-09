@@ -1,0 +1,4 @@
+Dies ist die Ueberschrift einer jeden [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite| ° ]] im [[unpartei/UnparteiWiki|UnparteiWiki]][[http://google.com/search?q=UnparteiWiki| ° ]].
+Praktischerweise wird er in [[unpartei/CamelCase|CamelCase]][[http://google.com/search?q=CamelCase| ° ]] geschrieben.
+
+[[include component="backlinks" page="{$page}"]]

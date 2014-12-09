@@ -1,0 +1,5 @@
+[[unpartei/WikiPage|WikiPage]][[http://google.com/search?q=WikiPage|➜°]] [[unpartei/WikiSeite|WikiSeite]][[http://google.com/search?q=WikiSeite|➜°]]
+
+[[https://www.google.com/search?q={$page}|Google »{$page}«]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

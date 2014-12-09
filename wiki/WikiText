@@ -1,0 +1,17 @@
+http://sync.in/WikiText
+CcBySa Feb 14, 2012 3:41 pm, fridemar,...
+F= [[FridemarPache]]
+J= Joker (kann als [[AutorSignaturKuerzel]] von allen genutzt werden, um einen [[WikiDialog]] zu führen).
+..
+<->http://unpartei.wikispaces.com/WikiText
+
+J: Was ist WikiText?
+F: Das ist ein Text mit besonderen Markierungen (WikiMarkup) .
+J: Kannst du da ein Beispiel geben?
+F: Dieser Text in diesem [[EtherPad]] ist ein WikiText. Z.B. werden alle [[WikiWort]]e in eckigen Klammern im [[PadPartnerWiki]] als Links klickbar gemacht.
+J: Gibt es irgendwo eine ausführliche Hilfe für das ganze WikiMarkup.
+F: Ja, unter http://help.wikispaces.com/help.wikitext
+----
+Bitte oberhalb dieser Trennlinie den TextBackup vom [[UnderPad]] im [[WikiTextEditor]] Modus machen.//
+[[media type="custom" key="12355248"]]
+[[include component="backlinks" page={$page} limit="100"]]

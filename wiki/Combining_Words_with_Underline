@@ -1,0 +1,6 @@
+[[unpartei/Combining_Words_with_Underline|Combining_Words_with_Underline]][[http://google.com/search?q=Combining_Words_with_Underline|⬀°]] like this gets also autolinked by the [[unpartei/AutoLinkBookmarklet|AutoLinkBookmarklet]][[http://google.com/search?q=AutoLinkBookmarklet|⬀°]]
+.
+
+[[https://www.google.com/search?q={$page}|Google »{$page}«]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

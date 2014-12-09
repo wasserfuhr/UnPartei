@@ -1,0 +1,25 @@
+Position:
+
+[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]] als eingebauter [[unpartei/GoogleSensor|GoogleSensor]][[http://google.com/search?q=GoogleSensor|➜°]] darf verwendet werden am Anfang der Seite
+[[unpartei/GoogleThisAlsEingebauterGoogleSensor_DarfVerwendetWerdenAmAnfangDerSeite|GoogleThisAlsEingebauterGoogleSensor_DarfVerwendetWerdenAmAnfangDerSeite]][[http://google.com/search?q=GoogleThisAlsEingebauterGoogleSensor_DarfVerwendetWerdenAmAnfangDerSeite|➜°]]
+
+[[unpartei/ProArgument|ProArgument]][[http://google.com/search?q=ProArgument|➜°]] e:
+
+* [[unpartei/AutorIn|AutorIn]][[http://google.com/search?q=AutorIn|➜°]] en sollten frei ihren begruendbaren Stil pflegen und duerfen
+* Es spart Zeit, wenn das [[unpartei/GoogleThisPage|GoogleThisPage]][[http://google.com/search?q=GoogleThisPage|➜°]] am Anfang liegt und nicht bei variabler Seitenlaenge erst unten irgendwo gesucht werden muss (eigene Erfahrung als haeufigster Autor im Wiki).
+* Es ist praktisch
+** zu wissen, ob
+*** bereits andernorts in Google Beitraege zum [[unpartei/SeitenTitel|SeitenTitel]][[http://google.com/search?q=SeitenTitel|➜°]] vorliegen ([[unpartei/IncidentalCollaboration|IncidentalCollaboration]][[http://google.com/search?q=IncidentalCollaboration|➜°]])
+*** wie schnell der eigene Beitrag in den [[unpartei/GoogleRadar|GoogleRadar]][[http://google.com/search?q=GoogleRadar|➜°]] kommt ([[unpartei/SelbstWirksamkeit|SelbstWirksamkeit]][[http://google.com/search?q=SelbstWirksamkeit|➜°]])
+** die hoch priorisierten Textpositionen den Suchmaschinen zuerst anzubieten (damit sie in Extrakte aufgenommen werden)
+* Es ist zweckmaessig, gleich am Anfang eine kurze Erklaerung fuer das als [[unpartei/PageName|PageName]][[http://google.com/search?q=PageName|➜°]] verwendete [[unpartei/WikiWort|WikiWort]][[http://google.com/search?q=WikiWort|➜°]] in [[unpartei/LinkLanguage|LinkLanguage]][[http://google.com/search?q=LinkLanguage|➜°]] als [[unpartei/LinkPair|LinkPair]][[http://google.com/search?q=LinkPair|➜°]] zu geben. Eine Wiederholung im Footer waere redundant ([[unpartei/YagNi|YagNi]][[http://google.com/search?q=YagNi|➜°]]).
+...
+
+[[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags|➜°]]: [[unpartei/GoogleThis_Als_ErklaerungsHinweis_Icon|GoogleThis_Als_ErklaerungsHinweis_Icon]][[http://google.com/search?q=GoogleThis_Als_ErklaerungsHinweis_Icon|➜°]], [[unpartei/GoogleThis_Als_Extra_GoogleThisPageName_Icon|GoogleThis_Als_Extra_GoogleThisPageName_Icon]][[http://google.com/search?q=GoogleThis_Als_Extra_GoogleThisPageName_Icon|➜°]]
+
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]
+
+Zur Veranschaulichung:
+[[https://www.google.com/search?q={$page}|➜°]] (GoogleThis-Als-Extra-GoogleThisPageName-Icon ➜°) 
+[[➜°]] (GoogleThis-Als-ErklaerungsHinweis-Icon ➜°)

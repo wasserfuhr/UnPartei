@@ -1,0 +1,29 @@
+[[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]], depicted by the icon "➜°" abbreviates a uniform textlink, integrated in each [[unpartei/PairLink|PairLink]][[http://google.com/search?q=PairLink|➜°]], that is created by [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei|➜°]].
+it stands for [[unpartei/GoogleThisLink|GoogleThisLink]][[http://google.com/search?q=GoogleThisLink|➜°]]°, where [[unpartei/GoogleThisPageName|GoogleThisPageName]][[http://google.com/search?q=GoogleThisPageName|➜°]] is a special case.
+Reasons why in the "footer" (of each wikipage template) there should be a hint to the meaning of the icon (instead of a link to the [[unpartei/PageName|PageName]][[http://google.com/search?q=PageName|➜°]])
+
+* As normally each [[unpartei/WikiPage|WikiPage]][[http://google.com/search?q=WikiPage|➜°]] should have a short description or explanation of the [[unpartei/WikiWord|WikiWord]][[http://google.com/search?q=WikiWord|➜°]], given in [[unpartei/LinkLanguage|LinkLanguage]][[http://google.com/search?q=LinkLanguage|➜°]] at the beginning, a separate link is redundant ([[unpartei/YagNi|YagNi]][[http://google.com/search?q=YagNi|➜°]])
+* For the (hopeful many) newcomers to this wiki, who are invited by [[unpartei/AutoLinked|AutoLinked]][[http://google.com/search?q=AutoLinked|➜°]] plaintext in comments of Facebook etc., they need more a first explanation
+
+for the [[unpartei/GoogleThisInnovation|GoogleThisInnovation]][[http://google.com/search?q=GoogleThisInnovation|➜°]] than to be sent to [[unpartei/GoogleSearch|GoogleSearch]][[http://google.com/search?q=GoogleSearch|➜°]] without explaining context.
+
+[[unpartei/GoogleThisPageName|GoogleThisPageName]][[http://google.com/search?q=GoogleThisPageName|➜°]] was a valuable initial catchy [[unpartei/WikiPragma|WikiPragma]][[http://google.com/search?q=WikiPragma|➜°]] , introduced by [[unpartei/JohannKoenitz|JohannKoenitz]][[http://google.com/search?q=JohannKoenitz|➜°]] in the [[unpartei/UnparteiWiki|UnparteiWiki]][[http://google.com/search?q=UnparteiWiki|➜°]] which was generalized by the [[unpartei/AutoLinkBookmarkletUnpartei|AutoLinkBookmarkletUnpartei]][[http://google.com/search?q=AutoLinkBookmarkletUnpartei|➜°]] to [[unpartei/GoogleThisLink|GoogleThisLink]][[http://google.com/search?q=GoogleThisLink|➜°]].
+Another inspiration to the author of the [[unpartei/AutoLinkBookmarklet|AutoLinkBookmarklet]][[http://google.com/search?q=AutoLinkBookmarklet|➜°]] came from the [[unpartei/InterwikiPrefix|InterwikiPrefix]][[http://google.com/search?q=InterwikiPrefix|➜°]] "Google:" e.g. the [[unpartei/MeatballWiki|MeatballWiki]][[http://google.com/search?q=MeatballWiki|➜°]] , where there is a special construct,
+
+written as e.g. `Google:[[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] `that leads to a [[unpartei/GoogleSearch|GoogleSearch]][[http://google.com/search?q=GoogleSearch|➜°]] for [[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] .
+
+To combine both constructs, the [[unpartei/WikiWord|WikiWord]][[http://google.com/search?q=WikiWord|➜°]] for [[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] and a [[unpartei/GoogleSearch|GoogleSearch]][[http://google.com/search?q=GoogleSearch|➜°]] for the same keyword, we have the [[unpartei/AutoLinkBookmarklet|AutoLinkBookmarklet]][[http://google.com/search?q=AutoLinkBookmarklet|➜°]] , that "catches two flies with
+one clap" ("faengt zwei Fliegen mit einer Klappe"). It produces the [[unpartei/WikiLink|WikiLink]][[http://google.com/search?q=WikiLink|➜°]] to its corresponding [[unpartei/WikiPage|WikiPage]][[http://google.com/search?q=WikiPage|➜°]] and at the same time offers the [[unpartei/OneClickGoogleSearch|OneClickGoogleSearch]][[http://google.com/search?q=OneClickGoogleSearch|➜°]] .
+
+Take for example the [[unpartei/WikiPage|WikiPage]][[http://google.com/search?q=WikiPage|➜°]] , named [[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] . Test it yourself.
+On the page [[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] , click first the main part `[[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] ` to get an internal selfreferential [[unpartei/WikiLink|WikiLink]][[http://google.com/search?q=WikiLink|➜°]] and then click on the icon "➜°"
+trailing [[unpartei/UnPartei|UnPartei]][[http://google.com/search?q=UnPartei|➜°]] to get its [[unpartei/GoogleSearch|GoogleSearch]][[http://google.com/search?q=GoogleSearch|➜°]] .
+
+To extend the idea, we use another [[unpartei/WikiPragma|WikiPragma]][[http://google.com/search?q=WikiPragma|➜°]] : [[unpartei/GoogleThisLink|GoogleThisLink]][[http://google.com/search?q=GoogleThisLink|➜°]] , which you can use on the [[unpartei/PairLink|PairLink]][[http://google.com/search?q=PairLink|➜°]] s on this page.
+
+[[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags|➜°]]➜°: [[unpartei/GoogleThis|GoogleThis]][[http://google.com/search?q=GoogleThis|➜°]]➜°, [[unpartei/GoogleSensor|GoogleSensor]][[http://google.com/search?q=GoogleSensor|➜°]]➜°, [[unpartei/PairLink|PairLink]][[http://google.com/search?q=PairLink|➜°]]➜°,
+
+Ref:
+
+
+[[include component="backlinks" page="{$page}"]]

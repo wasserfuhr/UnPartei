@@ -1,0 +1,15 @@
+obligatory: [[unpartei/PageContent|PageContent]][[http://google.com/search?q=PageContent|➜°]]
+
+optional: [[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags|➜°]]
+
+optional: [[WikiLike]]
+
+//The rest ist automatically inserted from [[space.template.IncludeBackLinks]]://
+
+obligatory: [[BackLinkFooter]]
+
+[[unpartei/WikiTags|WikiTags]][[http://google.com/search?q=WikiTags|➜°]]: [[unpartei/PageFormat|PageFormat]][[http://google.com/search?q=PageFormat|➜°]] [[unpartei/WikiPageFormat|WikiPageFormat]][[http://google.com/search?q=WikiPageFormat|➜°]] [[unpartei/UnparteiWikiPageFormat|UnparteiWikiPageFormat]][[http://google.com/search?q=UnparteiWikiPageFormat|➜°]]
+
+[[WikiLike]]: [[FriPa]] [[RaWa]]
+
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

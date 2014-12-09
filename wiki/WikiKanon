@@ -1,0 +1,46 @@
+WikiKanon (CcBySa 2012)
+
++ CommunityWiki
++ MeatBallWiki
++ MindWiki (zwecks NutzerFreundlichkeit gespiegelt als BankWiki SingularWiki und UnWiki)
++ WardsWiki
++ WebSeitz
++ WikiPedia
++ WikTionary
++ AutoLinkBookmarkletUnpartei (J:<-wieso? gemeint sind hier WiKis: F:Begruendung im nachgereichten Text dieser Seite.)
+
+Der klassische WikiKanon enthaelt Vorschlaege für WiKi s, die sich mehr oder weniger gut für eine WikiVernetzung eignen.
+
+Es war WardCunningham, der die Idee der sogenannten WikiSisterSite realisierte, spaeter auch als FriendWiki, PartnerWiki, TwinWiki, WikiBall, FederatedWiki genannt.
+Hierbei, waren es die WikiProvider, die (von oben herab) bestimmten, welche Wiki s sich auf wechselseitig aufeinander verweisenden
+gleichnamigen WikiPage s miteinander verbanden.
+
+Jetzt gibt es jedoch eine Moeglichkeit (dank eines WikifyBookmarklet) s sogenannte UserDefinedPartnerWiki s via wikifizierten PlainText zu verbinden.
+Gerade diese Funktion wird durch albu und seine Varianten bereitgestellt. Damit ist der Weg frei für eine neue Form eines vernetzungsfreundlichen WikiKanon
+( WikiBall, MetaWiki oder wie auch immer).
+
+PosiTion1: DontRepeatYourself: Wenn Wichtiges schon in einem dieser WiKi's steht,
+dann LinkDontCopy und zwar nach Moeglichkeit in beiden Richtungen, damit ein Gewebe entsteht.
+
+PosiTion2: RepeatStuffConditionally unter gewissen Bedingungen:
+1. Der zu wiederholende Inhalt (ist CreativeCommons oder PublicDomain)
+2. Das QuellWiki ist
++ BiLinkFeindlich
++ doktrinaer (unterdrückt TheorieBildung und Innovationen in statu nascendi )
+
+Leider gibt es naemlich Wikis die eine Art (buerokratisiertes) InZest betreiben und die ein nutzerdefiniertes BiLinking zu verbundenen InterAktionsfeld ern verbieten, wie z.B.
+die WikiPedia (die ausschliesslich nach etablierter ReLevanz ( RelevanzKriterium) externe Links erlaubt. Dies erhöht die Markteintritts-Schwelle für kleine
+aber hochinnovative Wikis, die besonders dringend InnovationsPartner brauchen, um sich zu etablieren.
+
+Zur Unterstützung des Prinzips: VereintSindAuchDieSchwachenMaechtig, gibt es deshalb das AutoLinkBookmarkletUnpartei und AutoLinkBookmarkletVarianten.
+
+WikiTags: AypWip WebNote WikiLikeThing WikifyWebnote
+
+Ref: http://aypwip.org/WikiKanon http://unpartei.wikispaces.com/WikiKanon
+
+Append your own variant CcBySa AutoLinkBookmarklet (which links to your favorite Wiki s) to the following list:
+
+
+[[media type="custom" key="20435658"]]  //(unfortunately WikiSpaces appears to suppress in situ bookmarklets, contrary to AypWip, so this one is only a mockup, the RealThing can be//
+//experienced on http://aypwip.org/WikiKanon where it wikifies PlainText on the spot.)//
+[[BackLink]]s: [[include component="backlinks" page="{$page}"]]

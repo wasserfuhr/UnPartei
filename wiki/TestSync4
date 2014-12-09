@@ -1,0 +1,19 @@
+F=[[{$creator}]]
+K=[[Joker]]
+..
+//<---Ende [[SyncInAutorInKuerzelListe]]//
+----
+K: Was soll dieser Text?
+F: Damit testen wir ein von Johann vorgeschlagenes neues Layout.
+K: Wie es mit Farbe im [[WikiTextEditor]] aus?
+F: <span style="color: #0026ff;">Hier bitteschön steht ein blauer Text.</span>
+//<---Ende [[SyncInInhaltsBereich]]//
+----
+//Start [[SyncInFooter]]//
+//[[http://sync.in/{$page}]]//
+//[[CcBySa]] {$creationdate},{$creator},...//
+//<->[[http://unpartei.wikispaces.com/{$page}]]//
+//<---Ende [[SyncInHeader]]://
+
+[[media type="custom" key="12550728"]]
+//[[include component="backlinks" page="{$page}" limit="100"]] [[BackLink]]s//
