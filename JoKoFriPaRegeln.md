@@ -1,8 +1,8 @@
 ( based on https://www.facebook.com/notes/unpartei/gruppenregeln/771486916280055 )
 
 Nachfolgende Gruppenregeln sind für Dich und alle anderen verbindlich:
-Das Gemeinwohl und das Recht auf das freiheitliche Streben nach Glück stellen eine untrennbare Einheit dar.
-Der Mensch hat die Fähigkeit sich zu bilden und weiter zu entwickeln – dieser Fähigkeit ist eine universelle Informationsfreiheit gegenüber zu stellen.
+* Das Gemeinwohl und das Recht auf das freiheitliche Streben nach Glück stellen eine untrennbare Einheit dar.
+* Der Mensch hat die Fähigkeit sich zu bilden und weiter zu entwickeln – dieser Fähigkeit ist eine universelle Informationsfreiheit gegenüber zu stellen.
 Die schöpferischen Kräfte des Menschen sollen sich entfalten können – diesem Anspruch ist das universelle Partizipationsrecht gegenüber zu stellen.
 Der Schutz und die bedachte Nutzung aller Lebensgrundlagen der Menschen, ist die Basis für jede Weiterentwicklung – die Gemeinschaft soll dem durch ihre Handlungen Rechnung tragen.
 Die universellen Menschenrechte, die in der allgemeinen Erklärung der Menschenrechte der UN vom 10.12.1948 festgehalten worden sind, zu bewahren und weiter zu entwickeln ist oberstes Gebot aller partizipierenden Menschen.
